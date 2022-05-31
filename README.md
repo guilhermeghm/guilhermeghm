@@ -15,7 +15,8 @@ I'm a Systems Reliability Engineer who is passionate about Cloud Computing, Infr
 
 ### 📈 Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeghm&show_icons=true)](https://github.com/guilhermeghm)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeghm&show_icons=true&count_private=true)
+)](https://github.com/guilhermeghm)
 
 ### 💡 Languages 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeghm)](https://github.com/guilhermeghm)
