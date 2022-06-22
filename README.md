@@ -7,7 +7,7 @@ I'm a Systems Reliability Engineer who is passionate about Cloud Computing, Infr
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Docker | AWS | Terraform | Kubernetes | Packer
+- 💻 &nbsp; Docker | AWS | Terraform | Kubernetes | GitLab
 - 🐧 &nbsp; Linux
 
 
